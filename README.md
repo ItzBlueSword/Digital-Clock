@@ -1,5 +1,5 @@
 # Digital-Clock
-**Digital clock in HTML & CSS.**
+**Digital clock in HTML, CSS & Javascript.**
 
 ## Programming languages used:
 
