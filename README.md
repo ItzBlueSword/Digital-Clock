@@ -18,7 +18,7 @@ This is an HTML-based clock that displays the current time in digital format. Th
 
 ## Programming languages used:
 
-![HTML5](./assets/html.svg) ![CSS](./assets/css.svg)
+![HTML5](./assets/html.svg) ![CSS](./assets/css.svg) ![JAVASCRIPT](./assets/javascript.svg)
 
 ## License
 
